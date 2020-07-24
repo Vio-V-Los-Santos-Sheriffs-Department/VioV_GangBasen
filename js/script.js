@@ -220,10 +220,6 @@ const data = {
                     {
                         title: "Farbe",
                         content: "Grün"
-                    },
-                    {
-                        title: "WT-routen",
-                        content: "keine"
                     }
                 ]
             }

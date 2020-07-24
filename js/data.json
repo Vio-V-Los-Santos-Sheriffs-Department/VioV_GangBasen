@@ -1,19 +1,24 @@
 {
     "gangs": [
-        {
+		{
             "name": "Triaden",
             "position": {
-                "x": 293,
-                "y": 43
+                "x": 1550,
+                "y": 4850
             },
             "blip_color": {
-                "r": 0,
-                "g": 0,
-                "b": 0
+                "r": 30,
+                "g": 30,
+                "b": 30
             },
             "description": {
-                "skin": "https://i.imgur.com/mbeZcNc.png",
-                "color": "Weiß"
+                "skin": "https://cdn.namecode.de/attachments/qn4kc.png",
+                "texts": [
+                    {
+                        "title": "Farbe",
+                        "content": "Schwarz"
+                    }
+                ]
             }
         }
     ]
