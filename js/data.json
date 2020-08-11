@@ -7,9 +7,9 @@
         "y": 4850
       },
       "blip_color": {
-        "r": 30,
-        "g": 30,
-        "b": 30
+        "r": 35,
+        "g": 40,
+        "b": 43
       },
       "description": {
         "skin": "https://cdn.namecode.de/attachments/qn4kc.png",
@@ -49,9 +49,9 @@
         "y": 4050
       },
       "blip_color": {
-        "r": 150,
-        "g": 150,
-        "b": 150
+        "r": 80,
+        "g": 90,
+        "b": 95
       },
       "description": {
         "skin": "https://i.imgur.com/T00TH4l.jpg",
@@ -70,9 +70,9 @@
         "y": 3510
       },
       "blip_color": {
-        "r": 204,
-        "g": 14,
-        "b": 14
+        "r": 245,
+        "g": 64,
+        "b": 33
       },
       "description": {
         "skin": "https://i.imgur.com/zLUi27z.png",
@@ -91,16 +91,16 @@
         "y": 5150
       },
       "blip_color": {
-        "r": 229,
-        "g": 255,
-        "b": 0
+        "r": 210,
+        "g": 105,
+        "b": 30
       },
       "description": {
-        "skin": "https://puu.sh/G917T/d430f8485b.png",
+        "skin": "https://i.imgur.com/qflYsaU.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Gelb"
+            "content": "Orange"
           }
         ]
       }
@@ -113,8 +113,8 @@
       },
       "blip_color": {
         "r": 0,
-        "g": 255,
-        "b": 255
+        "g": 204,
+        "b": 204
       },
       "description": {
         "skin": "https://s12.directupload.net/images/200713/g9cis27c.png",
@@ -133,9 +133,9 @@
         "y": 4000
       },
       "blip_color": {
-        "r": 33,
-        "g": 0,
-        "b": 87
+        "r": 35,
+        "g": 45,
+        "b": 83
       },
       "description": {
         "skin": "https://i.imgur.com/qHPVP0J.jpg",
@@ -154,9 +154,9 @@
         "y": 1750
       },
       "blip_color": {
-        "r": 56,
-        "g": 32,
-        "b": 9
+        "r": 121,
+        "g": 85,
+        "b": 60
       },
       "description": {
         "skin": "https://i.imgur.com/yXSdx8f.png",
@@ -175,9 +175,9 @@
         "y": 2000
       },
       "blip_color": {
-        "r": 1,
-        "g": 82,
-        "b": 22
+        "r": 76,
+        "g": 153,
+        "b": 0
       },
       "description": {
         "skin": "https://i.imgur.com/0K884Cy.png",
