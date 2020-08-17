@@ -8,15 +8,15 @@
       },
       "blip_color": {
         "r": 35,
-        "g": 40,
-        "b": 43
+        "g": 45,
+        "b": 83
       },
       "description": {
-        "skin": "https://cdn.namecode.de/attachments/qn4kc.png",
+        "skin": "https://i.gyazo.com/223e0b8f021b46202193b8b87679e369.jpg",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Schwarz"
+            "content": "Dunkel Blau"
           }
         ]
       }
@@ -134,15 +134,15 @@
       },
       "blip_color": {
         "r": 35,
-        "g": 45,
-        "b": 83
+        "g": 40,
+        "b": 43
       },
       "description": {
-        "skin": "https://i.imgur.com/qHPVP0J.jpg",
+        "skin": "https://i.imgur.com/hp1MVk1.jpg",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Dunkel Blau"
+            "content": "Schwarz"
           }
         ]
       }
