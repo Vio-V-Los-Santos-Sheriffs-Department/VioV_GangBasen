@@ -168,5 +168,98 @@
         ]
       }
     }
+  ],
+  "wt": [
+    {
+      "name": "Mount Chilliad",
+      "position": {
+        "x": 2850,
+        "y": 2550
+      }
+    },
+    {
+      "name": "Grapeseed",
+      "position": {
+        "x": 3850,
+        "y": 2380
+      }
+    },
+    {
+      "name": "Grapeseed",
+      "position": {
+        "x": 4050,
+        "y": 2250
+      }
+    },
+    {
+      "name": "Grapeseed",
+      "position": {
+        "x": 4150,
+        "y": 2450
+      }
+    },
+    {
+      "name": "Grand Senora Desert",
+      "position": {
+        "x": 3350,
+        "y": 3000
+      }
+    },
+    {
+      "name": "Grand Senora Desert",
+      "position": {
+        "x": 3020,
+        "y": 3750
+      }
+    },
+    {
+      "name": "Richard Majestics",
+      "position": {
+        "x": 1720,
+        "y": 5650
+      }
+    },
+    {
+      "name": "Murrieta Heights",
+      "position": {
+        "x": 3300,
+        "y": 6250
+      }
+    },
+    {
+      "name": "El Burro Heights",
+      "position": {
+        "x": 3650,
+        "y": 6350
+      }
+    },
+    {
+      "name": "Airport",
+      "position": {
+        "x": 2200,
+        "y": 7150
+      }
+    },
+    {
+      "name": "Elysian Island",
+      "position": {
+        "x": 2400,
+        "y": 7150
+      }
+    },
+    {
+      "name": "Elysian Island",
+      "position": {
+        "x": 2600,
+        "y": 7350
+      }
+    },
+    {
+      "name": "Sandy Shorse",
+      "position": {
+        "x": 4150,
+        "y": 2900
+      }
+    }
   ]
 }

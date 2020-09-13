@@ -26,6 +26,7 @@ function getData() {
 // load Data into View
 async function loadHtml() {
     let counter = 0;
+    let wt_counter = 0;
     let html = "";
     const data = await getData();
 
@@ -57,6 +58,28 @@ async function loadHtml() {
 
        counter++;
    });
+
+
+    data.wt.forEach((gang) => {
+        let blip = "";
+        let description = "";
+        blip += `<div class="item-point circle" data-top="${gang.position.y}" data-left="${gang.position.x}" style="background-image: url('assets/Blip_501.webp'); background-size: cover; background-color: rgba(0,0,0,0); border: 0;" data-popover="#wt-${counter}">`;
+        blip += `<div>`;
+        blip += `<a href="#" class="toggle" style="width: 20px; height: 20px;"></a>`;
+        blip += `</div>`;
+        blip += `</div>`;
+
+        description += `<div id="wt-${counter}" class="content right bottom">`;
+        description += `<div class="head">`;
+        description += `<a href="#" class="exit"><img src="assets/close.png" alt="" style="color:"#000" /></a>`;
+        description += `<h6 class="title">${gang.name}</h6>`;
+        description += `</div>`;
+        description += `</div>`;
+
+        html += blip + description;
+
+        counter++;
+    });
 
    $('#content').html($('#content').html() + html);
    $(".scalize").scalize();
