@@ -1,27 +1,6 @@
 {
   "gangs": [
     {
-      "name": "Triaden",
-      "position": {
-        "x": 1550,
-        "y": 4850
-      },
-      "blip_color": {
-        "r": 0,
-        "g": 76,
-        "b": 153
-      },
-      "description": {
-        "skin": "https://i.gyazo.com/223e0b8f021b46202193b8b87679e369.jpg",
-        "texts": [
-          {
-            "title": "Farbe",
-            "content": "Blau"
-          }
-        ]
-      }
-    },
-    {
       "name": "Yakuza Mafia",
       "position": {
         "x": 1530,
@@ -85,22 +64,22 @@
       }
     },
     {
-      "name": "YAMAGUCHI",
+      "name": "Tijan Cartell",
       "position": {
         "x": 1300,
         "y": 5150
       },
       "blip_color": {
-        "r": 210,
-        "g": 105,
-        "b": 30
+        "r": 100,
+        "g": 184,
+        "b": 230
       },
       "description": {
-        "skin": "https://i.imgur.com/qflYsaU.png",
+        "skin": "https://abload.de/img/bildu2knz.jpg",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Orange"
+            "content": "Türkis"
           }
         ]
       }
