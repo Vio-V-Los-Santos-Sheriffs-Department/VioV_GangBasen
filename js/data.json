@@ -236,7 +236,7 @@
     {
       "name": "Airport",
       "position": {
-        "x": 2200,
+        "x": 2250,
         "y": 7150
       }
     },
@@ -259,6 +259,38 @@
       "position": {
         "x": 4150,
         "y": 2900
+      }
+    }
+  ],
+  "at": [
+    {
+      "name": "alte Militärbase",
+      "position": {
+        "x": 940,
+        "y": 3480
+      }
+    },
+    {
+      "name": "neue Militärbase",
+      "position": {
+        "x": 1280,
+        "y": 3350
+      }
+    },
+    {
+      "name": "Human Labs",
+      "position": {
+        "x": 4880,
+        "y": 2980
+      }
+    }
+  ],
+  "dt": [
+    {
+      "name": "Abgabepunkt",
+      "position": {
+        "x": 2900,
+        "y": 4000
       }
     }
   ]

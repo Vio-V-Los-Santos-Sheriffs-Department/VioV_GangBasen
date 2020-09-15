@@ -12,6 +12,12 @@
 
 $(document).ready(() => {
     loadHtml();
+
+    $("img").click(function(e){
+        let x = e.pageX - e.target.offsetLeft;
+        let y = e.pageY - e.target.offsetTop;
+        console.table({x, y});
+    });
 })
 
 // get Data Object from JSON
@@ -26,7 +32,6 @@ function getData() {
 // load Data into View
 async function loadHtml() {
     let counter = 0;
-    let wt_counter = 0;
     let html = "";
     const data = await getData();
 
@@ -58,12 +63,11 @@ async function loadHtml() {
 
        counter++;
    });
-
-
-    data.wt.forEach((gang) => {
+    data.wt.forEach((item) => {
+        const { position, name } = item;
         let blip = "";
         let description = "";
-        blip += `<div class="item-point circle" data-top="${gang.position.y}" data-left="${gang.position.x}" style="background-image: url('assets/Blip_501.webp'); background-size: cover; background-color: rgba(0,0,0,0); border: 0;" data-popover="#wt-${counter}">`;
+        blip += `<div class="item-point circle" data-top="${position.y}" data-left="${position.x}" style="background-image: url('assets/Blip_501.webp'); background-size: cover; background-color: rgba(0,0,0,0); border: 0;" data-popover="#wt-${counter}">`;
         blip += `<div>`;
         blip += `<a href="#" class="toggle" style="width: 20px; height: 20px;"></a>`;
         blip += `</div>`;
@@ -72,7 +76,49 @@ async function loadHtml() {
         description += `<div id="wt-${counter}" class="content right bottom">`;
         description += `<div class="head">`;
         description += `<a href="#" class="exit"><img src="assets/close.png" alt="" style="color:"#000" /></a>`;
-        description += `<h6 class="title">${gang.name}</h6>`;
+        description += `<h6 class="title">WT: ${name}</h6>`;
+        description += `</div>`;
+        description += `</div>`;
+
+        html += blip + description;
+
+        counter++;
+    });
+    data.at.forEach((item) => {
+        const { position, name } = item;
+        let blip = "";
+        let description = "";
+        blip += `<div class="item-point circle" data-top="${position.y}" data-left="${position.x}" style="background-image: url('assets/Blip_67.webp'); background-size: cover; background-color: rgba(0,0,0,0); border: 0;" data-popover="#at-${counter}">`;
+        blip += `<div>`;
+        blip += `<a href="#" class="toggle" style="width: 20px; height: 20px;"></a>`;
+        blip += `</div>`;
+        blip += `</div>`;
+
+        description += `<div id="at-${counter}" class="content right bottom">`;
+        description += `<div class="head">`;
+        description += `<a href="#" class="exit"><img src="assets/close.png" alt="" style="color:"#000" /></a>`;
+        description += `<h6 class="title">AT: ${name}</h6>`;
+        description += `</div>`;
+        description += `</div>`;
+
+        html += blip + description;
+
+        counter++;
+    });
+    data.dt.forEach((item) => {
+        const { position, name } = item;
+        let blip = "";
+        let description = "";
+        blip += `<div class="item-point circle" data-top="${position.y}" data-left="${position.x}" style="background-image: url('assets/Blip_140.webp'); background-size: cover; background-color: rgba(0,0,0,0); border: 0;" data-popover="#dt-${counter}">`;
+        blip += `<div>`;
+        blip += `<a href="#" class="toggle" style="width: 20px; height: 20px;"></a>`;
+        blip += `</div>`;
+        blip += `</div>`;
+
+        description += `<div id="dt-${counter}" class="content right bottom">`;
+        description += `<div class="head">`;
+        description += `<a href="#" class="exit"><img src="assets/close.png" alt="" style="color:"#000" /></a>`;
+        description += `<h6 class="title">DT: ${name}</h6>`;
         description += `</div>`;
         description += `</div>`;
 
