@@ -91,16 +91,16 @@
         "y": 4000
       },
       "blip_color": {
-        "r": 0,
-        "g": 204,
-        "b": 204
+        "r": 101,
+        "g": 0,
+        "b": 101
       },
       "description": {
         "skin": "https://s12.directupload.net/images/200713/g9cis27c.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Türkis"
+            "content": "Lila"
           }
         ]
       }
