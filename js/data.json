@@ -154,16 +154,16 @@
         "y": 2000
       },
       "blip_color": {
-        "r": 0,
-        "g": 136,
-        "b": 255
+        "r": 245,
+        "g": 245,
+        "b": 0
       },
       "description": {
-        "skin": "https://i.imgur.com/Im3IcL7.png",
+        "skin": "https://i.imgur.com/xuAoVq7.jpg",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Hellblau"
+            "content": "Gelb"
           }
         ]
       }
