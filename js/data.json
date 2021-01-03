@@ -22,7 +22,7 @@
       }
     },
     {
-      "name": "The Avenues",
+      "name": "Die Mambas",
       "position": {
         "x": 1250,
         "y": 4050
@@ -33,7 +33,7 @@
         "b": 95
       },
       "description": {
-        "skin": "https://i.imgur.com/KHOeU8D.png",
+        "skin": "https://i.imgur.com/KoDqKCd.png",
         "texts": [
           {
             "title": "Farbe",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "name": "Anonymus",
+      "name": "Marabunta Grande",
       "position": {
         "x": 3130,
         "y": 3510
@@ -54,7 +54,7 @@
         "b": 33
       },
       "description": {
-        "skin": "https://i.imgur.com/zLUi27z.png",
+        "skin": "https://i.imgur.com/YaU8w9I.png und https://i.imgur.com/h4X0Znl.png",
         "texts": [
           {
             "title": "Farbe",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "name": "La eMe",
+      "name": "Fusion VT",
       "position": {
         "x": 3530,
         "y": 4000
@@ -117,7 +117,7 @@
         "b": 43
       },
       "description": {
-        "skin": "https://i.imgur.com/hp1MVk1.jpg",
+        "skin": "https://i.gyazo.com/7b720d19e96eace805147fb0bdd5b7d3.png",
         "texts": [
           {
             "title": "Farbe",
@@ -148,22 +148,22 @@
       }
     },
     {
-      "name": "Merkur",
+      "name": "Grove Street",
       "position": {
         "x": 4700,
         "y": 2000
       },
       "blip_color": {
         "r": 0,
-        "g": 136,
-        "b": 255
+        "g": 114,
+        "b": 67
       },
       "description": {
-        "skin": "https://i.imgur.com/Im3IcL7.png",
+        "skin": "https://ibb.co/DrQyFRG",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Hellblau"
+            "content": "Grün"
           }
         ]
       }
