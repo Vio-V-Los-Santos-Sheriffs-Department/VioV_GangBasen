@@ -12,7 +12,7 @@
         "b": 255
       },
       "description": {
-        "skin": "https://abload.de/img/skin41j7u.png",
+        "skin": "https://imgur.com/j9NxDN8.png",
         "texts": [
           {
             "title": "Farbe",
@@ -49,16 +49,16 @@
         "y": 3510
       },
       "blip_color": {
-        "r": 245,
-        "g": 64,
-        "b": 33
+        "r": 0,
+        "g": 0,
+        "b": 255
       },
       "description": {
-        "skin": "https://i.imgur.com/YaU8w9I.png und https://i.imgur.com/h4X0Znl.png",
+        "skin": "https://i.imgur.com/L14WR0T.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Rot"
+            "content": "Dunkel Blau"
           }
         ]
       }
@@ -75,7 +75,7 @@
         "b": 230
       },
       "description": {
-        "skin": "https://abload.de/img/bildu2knz.jpg",
+        "skin": "https://s12.directupload.net/images/210122/qj7g9as6.png",
         "texts": [
           {
             "title": "Farbe",
@@ -91,16 +91,16 @@
         "y": 4000
       },
       "blip_color": {
-        "r": 101,
+        "r": 0,
         "g": 0,
-        "b": 101
+        "b": 255
       },
       "description": {
-        "skin": "https://i.imgur.com/UGCL5HV.jpg",
+        "skin": "https://i.ibb.co/0tVDqrx/Screenshot-245.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Lila"
+            "content": "Rot"
           }
         ]
       }
@@ -117,7 +117,7 @@
         "b": 43
       },
       "description": {
-        "skin": "https://i.gyazo.com/7b720d19e96eace805147fb0bdd5b7d3.png",
+        "skin": "https://i.gyazo.com/26c2e6618580e3e886dfb2b5b9f87830.jpg",
         "texts": [
           {
             "title": "Farbe",
@@ -127,22 +127,22 @@
       }
     },
     {
-      "name": "Outlaws",
+      "name": "Suicidal Tendencies",
       "position": {
         "x": 4000,
         "y": 1750
       },
       "blip_color": {
-        "r": 121,
-        "g": 85,
-        "b": 60
+        "r": 245,
+        "g": 245,
+        "b": 0
       },
       "description": {
-        "skin": "https://i.imgur.com/yXSdx8f.png",
+        "skin": "https://i.imgur.com/AHd1bsy.jpg",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Braun"
+            "content": "Gelb"
           }
         ]
       }
@@ -154,12 +154,12 @@
         "y": 2000
       },
       "blip_color": {
-        "r": 0,
-        "g": 114,
-        "b": 67
+        "r": 1,
+        "g": 66,
+        "b": 0
       },
       "description": {
-        "skin": "https://ibb.co/DrQyFRG",
+        "skin": "https://i.imgur.com/o5qHk2M.png",
         "texts": [
           {
             "title": "Farbe",
