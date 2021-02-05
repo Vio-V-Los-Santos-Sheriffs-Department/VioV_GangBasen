@@ -289,14 +289,14 @@
     {
       "name": "Erster Abgabepunkt",
       "position": {
-        "x": 3250,
+        "x": 3140,
         "y": 4200
       }
     },
     {
       "name": "Zweiter Abgabepunkt",
       "position": {
-        "x": 2800,
+        "x": 2600,
         "y": 3900
       }
     }
