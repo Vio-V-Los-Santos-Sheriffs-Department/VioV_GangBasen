@@ -171,7 +171,7 @@
   ],
   "wt": [
     {
-      "name": "Mount Chilliad",
+      "name": "Mount Chiliad",
       "position": {
         "x": 2850,
         "y": 2550
@@ -234,7 +234,7 @@
       }
     },
     {
-      "name": "Airport",
+      "name": "Los Santos International Airport",
       "position": {
         "x": 2250,
         "y": 7150
@@ -255,7 +255,7 @@
       }
     },
     {
-      "name": "Sandy Shorse",
+      "name": "Sandy Shores",
       "position": {
         "x": 4150,
         "y": 2900
@@ -278,7 +278,7 @@
       }
     },
     {
-      "name": "Human Labs",
+      "name": "Humane Labs",
       "position": {
         "x": 4880,
         "y": 2980
