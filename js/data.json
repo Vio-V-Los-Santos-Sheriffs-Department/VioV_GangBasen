@@ -1,22 +1,22 @@
 {
   "gangs": [
     {
-      "name": "Yakuza Mafia",
+      "name": "Platzhalter",
       "position": {
         "x": 1530,
         "y": 5440
       },
       "blip_color": {
-        "r": 255,
-        "g": 255,
-        "b": 255
+        "r": 0,
+        "g": 0,
+        "b": 0
       },
       "description": {
-        "skin": "https://imgur.com/j9NxDN8.png",
+        "skin": "",
         "texts": [
           {
-            "title": "Farbe",
-            "content": "Weiß"
+            "title": "Platzhalter",
+            "content": "Platzhalter"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "b": 255
       },
       "description": {
-        "skin": "https://i.imgur.com/L14WR0T.png",
+        "skin": "https://i.imgur.com/32PeEDN.png",
         "texts": [
           {
             "title": "Farbe",
@@ -75,11 +75,11 @@
         "b": 230
       },
       "description": {
-        "skin": "https://s12.directupload.net/images/210122/qj7g9as6.png",
+        "skin": "https://s18.directupload.net/images/210211/alelr7mv.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Türkis"
+            "content": "Blau"
           }
         ]
       }
@@ -96,7 +96,7 @@
         "b": 0
       },
       "description": {
-        "skin": "https://i.imgur.com/BG39n8a.png",
+        "skin": "https://i.imgur.com/ZSnpAnO.png",
         "texts": [
           {
             "title": "Farbe",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "name": "Fusion VT",
+      "name": "MIDNIGHT",
       "position": {
         "x": 3530,
         "y": 4000
@@ -117,7 +117,7 @@
         "b": 43
       },
       "description": {
-        "skin": "https://i.gyazo.com/26c2e6618580e3e886dfb2b5b9f87830.jpg",
+        "skin": "https://i.imgur.com/pOCbVTT.png",
         "texts": [
           {
             "title": "Farbe",
@@ -133,16 +133,16 @@
         "y": 1750
       },
       "blip_color": {
-        "r": 245,
-        "g": 245,
-        "b": 0
+        "r": 255,
+        "g": 255,
+        "b": 255
       },
       "description": {
-        "skin": "https://i.imgur.com/AHd1bsy.jpg",
+        "skin": "https://i.imgur.com/uZJxGKJ.jpeg",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Gelb"
+            "content": "Weiß"
           }
         ]
       }
@@ -159,7 +159,7 @@
         "b": 0
       },
       "description": {
-        "skin": "https://i.imgur.com/o5qHk2M.png",
+        "skin": "https://i.gyazo.com/c3683a23961fff55bb68e7bf23b02373.png",
         "texts": [
           {
             "title": "Farbe",
