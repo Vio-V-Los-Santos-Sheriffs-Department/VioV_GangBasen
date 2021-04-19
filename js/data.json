@@ -264,24 +264,17 @@
   ],
   "at": [
     {
-      "name": "Alte Militärbase",
+      "name": "Militärbase",
       "position": {
-        "x": 940,
-        "y": 3480
-      }
-    },
-    {
-      "name": "Neue Militärbase",
-      "position": {
-        "x": 1280,
-        "y": 3350
+        "x": 1380,
+        "y": 3520
       }
     },
     {
       "name": "Humane Labs",
       "position": {
-        "x": 4880,
-        "y": 2980
+        "x": 4950,
+        "y": 3010
       }
     }
   ],
