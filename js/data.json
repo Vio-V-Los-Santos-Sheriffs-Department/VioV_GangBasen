@@ -54,7 +54,7 @@
         "b": 255
       },
       "description": {
-        "skin": "https://i.imgur.com/32PeEDN.png",
+        "skin": "https://i.imgur.com/FlMlmNi.png",
         "texts": [
           {
             "title": "Farbe",
@@ -75,7 +75,7 @@
         "b": 230
       },
       "description": {
-        "skin": "https://s18.directupload.net/images/210211/alelr7mv.png",
+        "skin": "https://cdn.discordapp.com/attachments/754435844621729932/828015511806804039/ewrwrewrwr.PNG",
         "texts": [
           {
             "title": "Farbe",
@@ -96,7 +96,7 @@
         "b": 0
       },
       "description": {
-        "skin": "https://i.imgur.com/ZSnpAnO.png",
+        "skin": "https://s12.directupload.net/images/210331/cdfxyi3l.png",
         "texts": [
           {
             "title": "Farbe",
@@ -148,22 +148,22 @@
       }
     },
     {
-      "name": "Grove Street",
+      "name": "UNDEFINED",
       "position": {
         "x": 4700,
         "y": 2000
       },
       "blip_color": {
-        "r": 1,
-        "g": 66,
+        "r": 245,
+        "g": 245,
         "b": 0
       },
       "description": {
-        "skin": "https://i.gyazo.com/c3683a23961fff55bb68e7bf23b02373.png",
+        "skin": "https://i.gyazo.com/7f8ab0fcbc346bbfb15c3d216615c77b.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Grün"
+            "content": "Gelb"
           }
         ]
       }
