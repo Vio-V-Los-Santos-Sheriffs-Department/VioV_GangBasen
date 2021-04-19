@@ -266,15 +266,15 @@
     {
       "name": "Militärbase",
       "position": {
-        "x": 1350,
-        "y": 3520
+        "x": 1330,
+        "y": 3500
       }
     },
     {
       "name": "Humane Labs",
       "position": {
-        "x": 4930,
-        "y": 3010
+        "x": 4900,
+        "y": 3000
       }
     }
   ],
