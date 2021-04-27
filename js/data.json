@@ -234,6 +234,13 @@
       }
     },
     {
+      "name": "Dino",
+      "position": {
+        "x": 4270,
+        "y": 3775
+      }
+    },
+    {
       "name": "Sandy Shores",
       "position": {
         "x": 4150,
