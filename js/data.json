@@ -154,16 +154,16 @@
         "y": 2000
       },
       "blip_color": {
-        "r": 245,
-        "g": 245,
+        "r": 255,
+        "g": 136,
         "b": 0
       },
       "description": {
-        "skin": "https://i.gyazo.com/7f8ab0fcbc346bbfb15c3d216615c77b.png",
+        "skin": "https://i.imgur.com/xcQEwpT.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Gelb"
+            "content": "Orange"
           }
         ]
       }
