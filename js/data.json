@@ -70,9 +70,9 @@
         "y": 5150
       },
       "blip_color": {
-        "r": 100,
-        "g": 184,
-        "b": 230
+        "r": 0,
+        "g": 0,
+        "b": 255
       },
       "description": {
         "skin": "https://cdn.discordapp.com/attachments/754435844621729932/828015511806804039/ewrwrewrwr.PNG",
