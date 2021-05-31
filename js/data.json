@@ -106,7 +106,7 @@
       }
     },
     {
-      "name": "MIDNIGHT",
+      "name": "Vagos",
       "position": {
         "x": 3530,
         "y": 4000
@@ -117,7 +117,7 @@
         "b": 43
       },
       "description": {
-        "skin": "https://i.imgur.com/pOCbVTT.png",
+        "skin": "https://i.imgur.com/JEvUJM0.png",
         "texts": [
           {
             "title": "Farbe",
