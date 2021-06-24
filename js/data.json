@@ -22,7 +22,7 @@
       }
     },
     {
-      "name": "Die Mambas",
+      "name": "Sinaloa Kartell",
       "position": {
         "x": 1250,
         "y": 4050
@@ -33,7 +33,7 @@
         "b": 95
       },
       "description": {
-        "skin": "https://i.imgur.com/KoDqKCd.png",
+        "skin": "https://i.imgur.com/ftOnuxh.jpg",
         "texts": [
           {
             "title": "Farbe",
@@ -54,7 +54,7 @@
         "b": 255
       },
       "description": {
-        "skin": "https://i.imgur.com/FlMlmNi.png",
+        "skin": "https://i.imgur.com/y603QIe.png",
         "texts": [
           {
             "title": "Farbe",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "name": "La Cosa Nostra",
+      "name": "Royal Ghosts",
       "position": {
         "x": 1300,
         "y": 5150
@@ -75,7 +75,7 @@
         "b": 255
       },
       "description": {
-        "skin": "https://cdn.discordapp.com/attachments/754435844621729932/828015511806804039/ewrwrewrwr.PNG",
+        "skin": "https://abload.de/img/safdsddfsafdsafpvkwg.jpg",
         "texts": [
           {
             "title": "Farbe",
@@ -96,7 +96,7 @@
         "b": 0
       },
       "description": {
-        "skin": "https://s12.directupload.net/images/210331/cdfxyi3l.png",
+        "skin": "https://i.imgur.com/UF864j3.png",
         "texts": [
           {
             "title": "Farbe",
@@ -117,7 +117,7 @@
         "b": 43
       },
       "description": {
-        "skin": "https://i.imgur.com/JEvUJM0.png",
+        "skin": "https://i.imgur.com/hQ5hkc0.png",
         "texts": [
           {
             "title": "Farbe",
@@ -138,7 +138,7 @@
         "b": 255
       },
       "description": {
-        "skin": "https://i.imgur.com/vo4Tm1H.png",
+        "skin": "https://i.imgur.com/1oZjNH4.png",
         "texts": [
           {
             "title": "Farbe",
@@ -159,7 +159,7 @@
         "b": 0
       },
       "description": {
-        "skin": "https://i.imgur.com/xcQEwpT.png",
+        "skin": "https://i.imgur.com/eSFt1Vz.png",
         "texts": [
           {
             "title": "Farbe",
