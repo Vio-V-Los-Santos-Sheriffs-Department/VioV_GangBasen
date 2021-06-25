@@ -49,16 +49,16 @@
         "y": 3510
       },
       "blip_color": {
-        "r": 255,
-        "g": 0,
-        "b": 255
+        "r": 0,
+        "g": 25,
+        "b": 51
       },
       "description": {
         "skin": "https://i.imgur.com/y603QIe.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Pink"
+            "content": "Blau"
           }
         ]
       }
@@ -70,16 +70,16 @@
         "y": 5150
       },
       "blip_color": {
-        "r": 0,
-        "g": 0,
-        "b": 255
+        "r": 70,
+        "g": 69,
+        "b": 49
       },
       "description": {
         "skin": "https://abload.de/img/safdsddfsafdsafpvkwg.jpg",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Blau"
+            "content": "Oliv"
           }
         ]
       }
@@ -112,9 +112,9 @@
         "y": 4000
       },
       "blip_color": {
-        "r": 35,
-        "g": 40,
-        "b": 43
+        "r": 0,
+        "g": 0,
+        "b": 0
       },
       "description": {
         "skin": "https://i.imgur.com/hQ5hkc0.png",
@@ -154,8 +154,8 @@
         "y": 2000
       },
       "blip_color": {
-        "r": 255,
-        "g": 136,
+        "r": 245,
+        "g": 245,
         "b": 0
       },
       "description": {
@@ -163,7 +163,7 @@
         "texts": [
           {
             "title": "Farbe",
-            "content": "Orange"
+            "content": "Gelb"
           }
         ]
       }
