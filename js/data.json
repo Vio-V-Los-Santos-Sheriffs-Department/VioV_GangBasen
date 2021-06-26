@@ -85,22 +85,22 @@
       }
     },
     {
-      "name": "Bloods",
+      "name": "Platzhalter",
       "position": {
         "x": 3100,
         "y": 4000
       },
       "blip_color": {
-        "r": 255,
+        "r": 0,
         "g": 0,
         "b": 0
       },
       "description": {
-        "skin": "https://i.imgur.com/UF864j3.png",
+        "skin": "",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Rot"
+            "content": "Platzhalter"
           }
         ]
       }
