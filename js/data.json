@@ -66,8 +66,8 @@
     {
       "name": "Royal Ghosts",
       "position": {
-        "x": 1300,
-        "y": 5150
+        "x": 4050,
+        "y": 1750
       },
       "blip_color": {
         "r": 70,
@@ -112,8 +112,8 @@
         "y": 4000
       },
       "blip_color": {
-        "r": 0,
-        "g": 0,
+        "r": 245,
+        "g": 245,
         "b": 0
       },
       "description": {
@@ -121,7 +121,7 @@
         "texts": [
           {
             "title": "Farbe",
-            "content": "Schwarz"
+            "content": "Gelb"
           }
         ]
       }
@@ -154,8 +154,8 @@
         "y": 2000
       },
       "blip_color": {
-        "r": 245,
-        "g": 245,
+        "r": 0,
+        "g": 0,
         "b": 0
       },
       "description": {
@@ -163,7 +163,7 @@
         "texts": [
           {
             "title": "Farbe",
-            "content": "Gelb"
+            "content": "Schwarz"
           }
         ]
       }
