@@ -250,43 +250,43 @@
         {
       "name": "Zancudo Süd",
       "position": {
-        "x": 1200,
-        "y": 3750
+        "x": 1180,
+        "y": 3700
       }
     },
     {
       "name": "Zancudo Nord",
       "position": {
-        "x": 1520,
-        "y": 3450
+        "x": 1500,
+        "y": 3400
       }
     },
     {
       "name": "Observatorium",
       "position": {
-        "x": 2270,
-        "y": 4720
+        "x": 2250,
+        "y": 4770
       }
     },
     {
       "name": "Vespucci",
       "position": {
-        "x": 1700,
-        "y": 6320
+        "x": 1680,
+        "y": 6270
       }
     },
     {
       "name": "Del Perro",
       "position": {
-        "x": 1340,
-        "y": 5700
+        "x": 1320,
+        "y": 5650
       }
     },
     {
       "name": "Vinewood",
       "position": {
-        "x": 2560,
-        "y": 5530
+        "x": 2540,
+        "y": 5480
       }
     }
   ],
