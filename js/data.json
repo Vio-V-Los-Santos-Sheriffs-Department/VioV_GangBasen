@@ -28,16 +28,16 @@
         "y": 4050
       },
       "blip_color": {
-        "r": 80,
-        "g": 90,
-        "b": 95
+        "r": 0,
+        "g": 255,
+        "b": 136
       },
       "description": {
-        "skin": "https://i.imgur.com/ftOnuxh.jpg",
+        "skin": "https://i.ibb.co/mtYKBNB/gangskin.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Grau"
+            "content": "Grün"
           }
         ]
       }
@@ -49,16 +49,16 @@
         "y": 3510
       },
       "blip_color": {
-        "r": 0,
-        "g": 25,
-        "b": 51
+        "r": 112,
+        "g": 128,
+        "b": 144
       },
       "description": {
-        "skin": "https://i.ibb.co/Cz5CJbY/Gangskin.png",
+        "skin": "https://i.ibb.co/r6LSQ2g/Grand-Theft-Auto-V-Screenshot-2021-08-27-01-28-50-99-2.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Blau"
+            "content": "Grau"
           }
         ]
       }
