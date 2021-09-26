@@ -29,15 +29,15 @@
       },
       "blip_color": {
         "r": 0,
-        "g": 255,
-        "b": 136
+        "g": 0,
+        "b": 0
       },
       "description": {
-        "skin": "https://i.ibb.co/mtYKBNB/gangskin.png",
+        "skin": "https://i.imgur.com/2QgNN9O.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Grün"
+            "content": "Schwarz"
           }
         ]
       }
@@ -54,7 +54,7 @@
         "b": 144
       },
       "description": {
-        "skin": "https://i.ibb.co/r6LSQ2g/Grand-Theft-Auto-V-Screenshot-2021-08-27-01-28-50-99-2.png",
+        "skin": "https://cdn.discordapp.com/attachments/882600237502451742/882600343031124018/eeeeaaa.PNG",
         "texts": [
           {
             "title": "Farbe",
@@ -91,16 +91,16 @@
         "y": 4000
       },
       "blip_color": {
-        "r": 255,
-        "g": 0,
-        "b": 0
+        "r": 0,
+        "g": 25,
+        "b": 51
       },
       "description": {
-        "skin": "https://i.imgur.com/o1RdNbC.jpeg",
+        "skin": "https://i.imgur.com/zoNvUpV.jpg",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Rot"
+            "content": "Blau"
           }
         ]
       }
@@ -112,16 +112,16 @@
         "y": 4000
       },
       "blip_color": {
-        "r": 245,
-        "g": 245,
+        "r": 255,
+        "g": 136,
         "b": 0
       },
       "description": {
-        "skin": "https://i.imgur.com/ZeMY4vR.png",
+        "skin": "https://i.imgur.com/CtshFAm.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Gelb"
+            "content": "Orange"
           }
         ]
       }
@@ -138,7 +138,7 @@
         "b": 255
       },
       "description": {
-        "skin": "https://i.imgur.com/DycsGWy.jpg",
+        "skin": "https://i.imgur.com/mftIJ4m.png",
         "texts": [
           {
             "title": "Farbe",
@@ -155,15 +155,15 @@
       },
       "blip_color": {
         "r": 0,
-        "g": 0,
-        "b": 0
+        "g": 136,
+        "b": 255
       },
       "description": {
-        "skin": "https://i.imgur.com/VjEnrP1.png",
+        "skin": "https://i.imgur.com/IXX9593.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Schwarz"
+            "content": "Hellblau"
           }
         ]
       }
