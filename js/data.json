@@ -70,16 +70,16 @@
         "y": 1750
       },
       "blip_color": {
-        "r": 70,
-        "g": 69,
-        "b": 49
+        "r": 102,
+        "g": 0,
+        "b": 102
       },
       "description": {
-        "skin": "https://i.imgur.com/K5KOW6x.png",
+        "skin": "https://i.imgur.com/7dkukXW.png",
         "texts": [
           {
             "title": "Farbe",
-            "content": "Oliv"
+            "content": "Lila"
           }
         ]
       }
